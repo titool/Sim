@@ -1,0 +1,57 @@
+\documentclass[letter, 10pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[dvips]{graphicx}
+\usepackage{url}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage[top=3cm,bottom=3cm,left=3.5cm,right=3.5cm,footskip=1.5cm,headheight=1.5cm,headsep=.5cm,textheight=3cm]{geometry}
+
+
+\begin{document}
+\title{Simulaci\'on \\ \begin{Large}Tarea 1: N\'umeros Aleaorios\end{Large}}
+\author{Renato Rivera Mohana.}
+\date{\today}
+\maketitle
+
+\section{Generar una secuencia de n\'umeros aleatorios, usando un generador con buenas propiedades.}
+Se generan una secuencia de 1000 n\'umeros aleatorios con la funci\'on RANDOM de Matlab, esta con una distribuci\'on binomial de parametros 10, 0.2. 
+\section{Verificar la calidad de la secuencia usando 2 test de aleatoridad parametrico y 2 test de no parametrico}
+\subsection{Parametricos}
+\begin{itemize}
+\item Test T:
+Se aplica el T student, en la cual el estadistico utilizado tiene una distribuci\'on de t Student si la hipotesis nula es cierta.
+Se aplica el test a la muestra de datos con la funci\'on ttest() de Matlab. Como resultado se obtiene que se rechaza la hipotesis nula, lo que que quiere decir que los n\'umeros no siguen una distribuci\'on t de Student.
+\item Test Z:
+El test Z realiza la hipotesis nula que los datos de un vector dado viene de una distribuci\'on normal con media m y varianza sigma, contra la hipotesis que m no sea la media con u na significancia del 5%.
+\\
+Con la funci\'on ztest() de Matlab ejecutamos el test de hipotesis,  el cual rechaza la hipotesis nula, lo que quiere decir que los n\'umeros aleatorios no siguen una distribuci\'on normal. 
+\end{itemize}
+\subsection{No Parametricos}
+\begin{itemize}
+\item Test de Rachas:
+\\
+Dada una sucesi\'on de 1000 observaciones se construye una sucesi\'on de s\'imbolos binarios definida por:
+Se define racha creciente (o decreciente)  de longitud L a un grupo seguido de n\'umeros 1 (+) o 0(-), contando el n\'umero de rachas. Bajo la aleatoridad de la muestra, se espera  que su distribuci\'on  asint\'otica sea normal:
+
+Los valores de la muestra son:
+\begin{itemize}
+\item L = 62
+\item E[L] = 13
+\item V[L] = 3.23
+\item Z = 55.00 
+\item Z < N(13, 3.23)
+
+Por lo tanto el test rechaza la hipotesis nula.
+
+\end{itemize}
+Por esto el supuesto de independencia no puede ser rechazado.
+\item Test de Kolmogorov-Smirnov:
+\\
+ 
+
+\end{itemize}
+
+\end{document} 

@@ -1,0 +1,343 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2009.10.31)  16 NOV 2011 15:50
+entering extended mode
+**C:/Users/Titool/Desktop/Ramos/2011/Simulacion/Tarea2/tarea2.tex
+(C:/Users/Titool/Desktop/Ramos/2011/Simulacion/Tarea2/tarea2.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\spanish.ldf"
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
+\es@datefmt=\count88
+\es@quottoks=\toks16
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+)) ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen104
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks19
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks20
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.sty"
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@dimlist=\toks24
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\geometry\geometry.cfg")
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (85.35826pt) is ignored.
+
+) ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\listings\listings.sty"
+\lst@mode=\count105
+\lst@gtempboxa=\box28
+\lst@token=\toks25
+\lst@length=\count106
+\lst@currlwidth=\dimen119
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen120
+\lst@width=\dimen121
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen122
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(C:\Users\Titool\Desktop\Ramos\2011\Simulacion\Tarea2\tarea2.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: class default
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 99.58464pt, 415.12572pt, 99.58464pt
+v-parts: 85.35826pt, 624.25346pt, 85.35826pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  614.295pt
+\paperheight 794.96999pt
+\textwidth  415.12572pt
+\textheight 624.25346pt
+\oddsidemargin  27.31465pt
+\evensidemargin 27.31465pt
+\topmargin  -43.81721pt
+\headheight 42.67912pt
+\headsep    14.22636pt
+\footskip   42.67912pt
+\marginparwidth 65.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+\c@lstlisting=\count113
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+
+Overfull \hbox (4.87856pt too wide) in paragraph at lines 29--31
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 62.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[2] [3] [4] (C:\Users\Titool\Desktop\Ramos\2011\Simulacion\Tarea2\tarea2.aux) )
+ 
+Here is how much of TeX's memory you used:
+ 4099 strings out of 495285
+ 52969 string characters out of 3179874
+ 139219 words of memory out of 3000000
+ 7262 multiletter control sequences out of 15000+200000
+ 12789 words of font info for 50 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,7n,42p,412b,1592s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C
+:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
+s (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (
+x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86
+)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Mi
+KTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
+eX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 
+2.8/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tarea2.pdf (4 pages, 155819 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

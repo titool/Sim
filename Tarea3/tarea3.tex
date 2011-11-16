@@ -1,0 +1,62 @@
+\documentclass[letter, 10pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage[dvips]{graphicx}
+\usepackage{url}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage[top=3cm,bottom=3cm,left=3.5cm,right=3.5cm,footskip=1.5cm,headheight=1.5cm,headsep=.5cm,textheight=3cm]{geometry}
+
+
+\begin{document}
+\title{Simulaci\'on \\ \begin{Large}Tarea 3: M\'etodo de Aceptaci\'on y rechazo\end{Large}}
+\author{Renato Rivera Mohana.}
+\date{\today}
+\maketitle
+
+\section{Verificar que el m\'etodo de aceptacion y rechazo equivale a generar valores con:}
+\begin{equation}
+\setcounter{equation}{1}
+ Y \sim U[0, a g(x)], \;  \mbox{Y aceptamos si} \; Y \leq f(x) 
+\end{equation}
+\\
+Generar valores con la ecuacion (1) es una versi\'on ligeramente modificada del m\'etodo de aceptaci\'on y rechazo ya que: 
+\begin{center}
+$ Y  \sim U(0, a g(x)) $ es lo mismo que $Y = U ag(x) $ donde $ U \sim U(0,1) $
+\end{center}
+\begin{center}
+ Por ende,  $ Y \leq f(x)$ cambia por $ U \leq f(x)/(ag(x)) $.
+\end{center}
+
+  
+\section{Verificar que en el m\'etodo de aceptaci\'on y rechazo, cada iteraci\'on se acepta con probabilidad $1/a$}
+Probabilidad de aceptaci\'on:
+\begin{equation}
+P(U\leq {f(X)\over ag(X) | X=x)} = {f(x) \over ag(x)}
+\end{equation}
+Entonces,
+\begin{equation}
+p=\int_x {f(x)\over ag(x)} g(x)\mathrm{d}x
+\end{equation}
+$$ = {1\over a} \int_x f(x) \mathrm{d}x$$
+$$= {1\over a}.$$
+
+\section{Verificar que la eficiencia de aceptaci\'on y rechazo es 1/a.}
+La eficiencia del m\'etodo de aceptaci\'on y rechazo  esta determinado por la probabilidad de aceptaci\'on:
+\begin{equation}
+p=P(U\leq f(x)/(ag(x))))=P(Y\leq f(x))=1/a.
+\end{equation}
+
+
+
+\section{El n\'umero de iteraciones del m\'etodo de aceptaci\'on y rechazo, antes de aceptar sigue una ley geom\'etrica de raz\'on 1/a}
+Dado que los intentos son independientes, del n\'umero de intentos, N antes de conseguir un par exitoso ocurre la siguiente distribuci\'on geom\'etrica:
+\begin{equation}
+P(N=n)=p(1-p)^{n-1}, \; n=1,2,...,
+\end{equation}
+
+\section{El n\'umero esperado de iteraciones es a.}
+Dada la distribuci\'on geom\'etrica en (5), esta tiene un n\'umero esperado de intentos $1/p$, dado que $p=1/a$, el n\'umero de intentos es $a$.
+\end{document} 
